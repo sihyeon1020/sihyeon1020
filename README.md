@@ -1,6 +1,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyeon1020)](https://github.com/sihyeon1020/github-readme-stats)
 
-# 백엔드 공부 중 ✨
+![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+## 백엔드 공부 중 ✨
 <!--<img src='images/04.png' width=200 height=200></img>--!>
 
 안녕하세요 이시현입니다. <br>
@@ -35,3 +39,5 @@ Here are some ideas to get you started:
 
 
 😏--!>
+
+
