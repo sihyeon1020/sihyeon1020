@@ -1,10 +1,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyeon1020)](https://github.com/sihyeon1020/github-readme-stats)
 
-# Hi there 👋
+# 백엔드 공부 중 ✨
 <!--<img src='images/04.png' width=200 height=200></img>--!>
 
+안녕하세요 이시현입니다. <br>
+현재 백엔드를 공부하고 있습니다. <br>
 
-<!--## Hi there 👋
+<!--## Hi there 
 ### Hi there 👋
 #### Hi there 👋
 ##### Hi there 👋
