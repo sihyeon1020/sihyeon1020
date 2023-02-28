@@ -1,7 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyeon1020)](https://github.com/sihyeon1020/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihyeon1020 &layout=compact)](https://github.com/sihyeon1020/github-readme-stats)
-
 
 # Hi there 👋
 ## Hi there 👋
